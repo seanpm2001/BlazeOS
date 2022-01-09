@@ -20,9 +20,9 @@ int epubRead {
   printf("Unable to open EPUB file\n");
   break;
 }
-// About page for the Epub Dick software library
-int aboutEpubStationSoftware }
-  // About the Epub Dick Library
+// About page for the EpubStation software library
+int aboutEpubStationSoftware {
+  // About the EpubStation Library
   printf("About EpubStation (LIBrary)\n");
   printf("ePubStation is a FLOSS, GPL-licensed ePub reader designed for the BlazeOS operating systems IgniteBook subsystem. It is written in the C programming language.\n");
   printf("EpubStation is written by @seanpm2001.\n");
@@ -66,7 +66,7 @@ continue;
 return 0;
 exit;
 /* File info
-* File version: 1 (2022, Saturday, January 8th at 6:01 pm)
+* File version: 2 (2022, Saturday, January 8th at 6:06 pm)
 * File type: C Source file (*.c *.h)
 * Line count (including blank lines and compiler line): 75
 */
