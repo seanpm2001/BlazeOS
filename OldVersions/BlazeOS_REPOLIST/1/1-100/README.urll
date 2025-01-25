@@ -3,12 +3,11 @@
 //// FileName: BlazeOS_REPOLIST.urll
 //// URL list for BlazeOS repositories
 //// A list of all BlazeOS project repositories by @seanpm2001
-//// 28 total repository links (as of 2025, Monday, January 6th at 01:45 pm PST), Version 2.
 //// Note: BWS is included into this count.
-//// As of 2025, Monday, January 6th
+//// As of 2025, Friday, January 24th
 
 //// ----------------------------------------------------- \\\\
-//// BlazeOS Project (28 repositories)
+//// BlazeOS Project (36 repositories)
 //// ----------------------------------------------------- \\\\
 
 //// Core (2)
@@ -16,7 +15,7 @@
 https://github.com/seanpm2001/BlazeOS
 https://github.com/seanpm2001/BlazeOS_Docs
 
-//// BWS hardware (6)
+//// BWS hardware (12)
 
 https://github.com/seanpm2001/BWS_Hardware
 https://github.com/seanpm2001/BWS_Hardware_Ice
@@ -24,6 +23,12 @@ https://github.com/seanpm2001/BWS_Icicle
 https://github.com/seanpm2001/BWS_IceCube
 https://github.com/seanpm2001/BWS_IceBlocks
 https://github.com/seanpm2001/BWS_IceBerg
+https://github.com/seanpm2001/BWS_Hardware_Docs
+https://github.com/seanpm2001/BWS_Hardware_Ice_Docs
+https://github.com/seanpm2001/BWS_Icicle_Docs
+https://github.com/seanpm2001/BWS_IceCube_Docs
+https://github.com/seanpm2001/BWS_IceBlocks_Docs
+https://github.com/seanpm2001/BWS_IceBerg_Docs
 
 //// BWS software (2)
 
@@ -40,11 +45,12 @@ https://github.com/seanpm2001/Mobi_Dick_Docs
 https://github.com/seanpm2001/B3_Docs
 https://github.com/seanpm2001/B3
 
-//// BlazeOS Peak (3)
+//// BlazeOS Peak (4)
 
 https://github.com/seanpm2001/BlazeOS_Peak
 https://github.com/seanpm2001/BlazeOS_Peak_Docs
 https://github.com/seanpm2001/BlazeOS_Peak_Video
+https://github.com/seanpm2001/BlazeOS_Peak_Video_Docs
 
 //// BlAPK (2)
 
@@ -56,9 +62,10 @@ https://github.com/seanpm2001/BlAPK_Docs
 https://github.com/seanpm2001/IgniteBook
 https://github.com/seanpm2001/IgniteBook_Docs
 
-//// BlazeOS App Store (1)
+//// BlazeOS App Store (2)
 
 https://github.com/seanpm2001/BlazeOS_App_Store
+https://github.com/seanpm2001/BlazeOS_App_Store_Docs
 
 //// BlazeOS ePubStation (1)
 
@@ -82,8 +89,8 @@ https://github.com/seanpm2001/Silkworm_web_browser
 https://github.com/seanpm2001/Silkworm_web_browser_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (BlazeOS): 2
-//// 2+6+2+2+2+3+2+2+1+1+1+1+1+2=28
+//// Repo count (BlazeOS): 36
+//// 2+12+2+2+2+4+2+2+2+1+1+1+1+2=36
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -101,80 +108,15 @@ https://github.com/seanpm2001/SeansLifeArchive_Extras_KindleFire
 //// Repo count (See also): 2
 //// 1+1=2
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 30
-//// 28+2=30
+//// Total repo count: 38
+//// 36+2=38
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 2 (2025, Monday, January 6th at 01:45 pm PST)
-//// Line count (including blank lines and compiler line: 181
+//// File version: 3 (2025, Friday, January 24th at 05:56 pm PST)
+//// Line count (including blank lines and compiler line: 123
 //// ----------------------------------------------------- \\\\
 
 //// End of file
-
-////* OLD DATA (keeping for now):
-
-//// BlazeOS main (1)
-
-https://github.com/seanpm2001/BlazeOS
-
-//// BWS main (1)
-
-https://github.com/seanpm2001/BWS
-
-//// BlazeOS documentation (1)
-
-https://github.com/seanpm2001/BlazeOS_Docs
-
-//// BWS Hardware (6)
-
-https://github.com/seanpm2001/BWS_Hardware
-https://github.com/seanpm2001/BWS_Hardware_Ice
-https://github.com/seanpm2001/BWS_Icicle
-https://github.com/seanpm2001/BWS_IceCube
-https://github.com/seanpm2001/BWS_IceBlocks
-https://github.com/seanpm2001/BWS_IceBerg
-
-//// BWS clients (1)
-
-https://github.com/seanpm2001/BWS_Zamboni
-
-//// BlazeOS applications (1)
-
-https://github.com/seanpm2001/BlazeOS_App_Store
-
-//// BlazeOS frameworks and layers (4)
-
-https://github.com/seanpm2001/BlAPK
-https://github.com/seanpm2001/BlazeOS_ePubStation
-https://github.com/seanpm2001/IgniteBook
-https://github.com/seanpm2001/BlazeOS_Userland
-
-//// BlazeOS animations (1)
-
-https://github.com/seanpm2001/BlazeOS_bpage
-
-//// BlazeOS software LIBraries (2)
-
-https://github.com/seanpm2001/Mobi_Dick
-https://github.com/seanpm2001/Blazed_Cafe
-
-//// BlazeOS browser (1)
-
-https://github.com/seanpm2001/Silkworm_web_browser
-
-//// BlazeOS Peak (2)
-
-https://github.com/seanpm2001/BlazeOS_Peak
-https://github.com/seanpm2001/BlazeOS_Peak_Video
-
-//// File info:
-
-//// File version: 1 (2023, Tuesday, August 22nd at 04:16 pm PST)
-//// Line count (including blank lines and compiler line): 68
-
-//// End of file
-
-*////
