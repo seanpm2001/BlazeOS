@@ -4,10 +4,10 @@
 //// URL list for BlazeOS repositories
 //// A list of all BlazeOS project repositories by @seanpm2001
 //// Note: BWS is included into this count.
-//// As of 2025, Friday, January 24th
+//// As of 2025, Saturday, January 25th
 
 //// ----------------------------------------------------- \\\\
-//// BlazeOS Project (36 repositories)
+//// BlazeOS Project (40 repositories)
 //// ----------------------------------------------------- \\\\
 
 //// Core (2)
@@ -67,21 +67,25 @@ https://github.com/seanpm2001/IgniteBook_Docs
 https://github.com/seanpm2001/BlazeOS_App_Store
 https://github.com/seanpm2001/BlazeOS_App_Store_Docs
 
-//// BlazeOS ePubStation (1)
+//// BlazeOS ePubStation (2)
 
 https://github.com/seanpm2001/BlazeOS_ePubStation
+https://github.com/seanpm2001/BlazeOS_ePubStation_Docs
 
-//// BlazeOS bPage (1)
+//// BlazeOS bPage (2)
 
 https://github.com/seanpm2001/BlazeOS_bpage
+https://github.com/seanpm2001/BlazeOS_bpage_Docs
 
-//// BlazeOS Userland (1)
+//// BlazeOS Userland (2)
 
 https://github.com/seanpm2001/BlazeOS_Userland
+https://github.com/seanpm2001/BlazeOS_Userland_Docs
 
-//// Blazed Cafe (1)
+//// Blazed Cafe (2)
 
 https://github.com/seanpm2001/Blazed_Cafe
+https://github.com/seanpm2001/Blazed_Cafe_Docs
 
 //// Silkworm Web Browser (2)
 
@@ -89,8 +93,8 @@ https://github.com/seanpm2001/Silkworm_web_browser
 https://github.com/seanpm2001/Silkworm_web_browser_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (BlazeOS): 36
-//// 2+12+2+2+2+4+2+2+2+1+1+1+1+2=36
+//// Repo count (BlazeOS): 40
+//// 2+12+2+2+2+4+2+2+2+2+2+2+2+2=40
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -108,15 +112,15 @@ https://github.com/seanpm2001/SeansLifeArchive_Extras_KindleFire
 //// Repo count (See also): 2
 //// 1+1=2
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 38
-//// 36+2=38
+//// Total repo count: 42
+//// 40+2=42
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 3 (2025, Friday, January 24th at 05:56 pm PST)
-//// Line count (including blank lines and compiler line: 123
+//// File version: 4 (2025, Saturday, January 25th at 06:15 pm PST)
+//// Line count (including blank lines and compiler line: 127
 //// ----------------------------------------------------- \\\\
 
 //// End of file
